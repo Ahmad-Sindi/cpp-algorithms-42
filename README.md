@@ -22,9 +22,13 @@ Strengthening programming logic for real-world tasks
 Input:
 
 Enter the number of days you worked: 1
+
 Enter the number of hours you worked: 2
+
 Enter the number of minutes you worked: 30
+
 Enter the number of seconds you worked: 45
+
 
 
 Output:
